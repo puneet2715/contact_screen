@@ -9,7 +9,7 @@ PreferredSizeWidget buildAppBarWidget() {
       IconButton(
         icon: const Icon(Icons.star_border),
         onPressed: () {
-          print('Contact is starred');
+          // print('Contact is starred');
         },
       ),
     ],
